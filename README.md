@@ -24,7 +24,7 @@ End User Instructions
 
 1. Download and install [Gpg4win](http://www.gpg4win.org/download.html) with Kleopatra
 2. Open Kleopatra by going to Programs > Gpg4win > Kleopatra.
-3. Import your secret key into Kleopatra by clicking the Import Certificates button.
+3. Import your secret key into Kleopatra by clicking the Import Certificates button and selecting the proper key file.
 4. Close Kleopatra.
 5. Download the [decrypter app](https://github.com/downloads/CollegePlus/py_decrypter/decrypter-1.0.exe).
  
