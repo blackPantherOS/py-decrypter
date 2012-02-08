@@ -13,8 +13,8 @@ Build with PyInstaller
 4. Copy decrypter.py into the pyinstaller folder (ie - `C:\Python27\pyinstaller\decrypter.py`).
 5. Launch the Windows Command Prompt and `cd` into the PyInstaller folder - `cd C:\Python27\`.
 6. Run `Configure.py`.
-7. Run `Makespec.py decrypter.py --onefile -K`.
-8. Run `Build.py decrypter/decrypter.spec`.
+7. Run `Makespec.py decrypter.py --onefile`.
+8. Run `Build.py decrypter/decrypter.spec`. The executable will be in the decrypter/dist folder.
 
 
 End User Instructions
